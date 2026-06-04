@@ -3,17 +3,17 @@
 
   "provider": "admob",
 
-  "banner_id": "ca-app-pub-xxx/banner",
-  "native_id": "ca-app-pub-xxx/native",
-  "interstitial_id": "ca-app-pub-xxx/interstitial",
-  "app_open_id": "ca-app-pub-xxx/appopen",
+  "banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "native_id": "ca-app-pub-3940256099942544/2247696110",
+  "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "app_open_id": "ca-app-pub-3940256099942544/3419835294",
 
   "show_banner": true,
   "show_native": true,
   "show_interstitial": true,
-  "show_app_open": false,
+  "show_app_open": true,
 
-  "interstitial_interval": 5,
+  "interstitial_interval": 3,
 
   "updated_at": "2026-06-04"
 }
