@@ -8,7 +8,7 @@
   "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
   "app_open_id": "ca-app-pub-3940256099942544/3419835294",
 
-  "show_banner": true,
+  "show_banner": false,
   "show_native": true,
   "show_interstitial": true,
   "show_app_open": true,
