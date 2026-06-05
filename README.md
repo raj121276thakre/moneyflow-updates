@@ -181,7 +181,7 @@ Latest APK:
 Location:
 
 ```text
-[contents/moneyflow-v1.0.1.apk](https://github.com/raj121276thakre/moneyflow-updates/releases/download/v1.0.1/moneyflow-v1.0.1.apk)
+https://github.com/raj121276thakre/moneyflow-updates/releases/download/v1.0.1/moneyflow-v1.0.1.apk
 ```
 
 ---
