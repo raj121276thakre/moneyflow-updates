@@ -2,12 +2,16 @@
   "version_code": 2,
   "version_name": "1.0.1",
   "apk_url": "https://github.com/raj121276thakre/moneyflow-updates/releases/download/v1.0.1/moneyflow-v1.0.1.apk",
-  "apkSize": 14485760,
+  "apkSize": 28814868,
   "forceUpdate": false,
   "changelog": [
-    "1. Added Dark mode",
-    "2. Added Admob Ads",
-    "3. Improved features",
-    "4. Bug fixes"
+     "Initial public release of MoneyFlow",
+    "Track income, expenses and transfers",
+    "Manage multiple accounts and balances",
+    "Beautiful reports and spending insights",
+    "Backup & Restore with JSON export",
+    "Dark Mode and Light Mode support",
+    "Offline-first with local data storage",
+    "Performance improvements and bug fixes"
   ]
 }
